@@ -15,7 +15,7 @@ A full-stack e-commerce shopping cart application built with React, Node.js, Exp
 ## 📁 Project Structure
 
 ```
-Vansh_Assignment/
+Assignment/
 ├── backend/                 # Node.js/Express backend
 │   ├── src/
 │   │   ├── config/
